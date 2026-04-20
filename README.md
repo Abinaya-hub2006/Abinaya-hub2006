@@ -14,7 +14,7 @@ I am an Artificial Intelligence and Data Science student with a strong interest 
 ## Skills
 
 **Programming Languages**
-Python, C++
+Python, C++, Java
 
 **AI / Machine Learning**
 PyTorch, OpenCV, Deep Learning, Computer Vision
@@ -40,6 +40,7 @@ Flask, React
 * Advanced Deep Learning
 * Distributed Systems
 * Software System Design
+* Java 
 
 ---
 
@@ -53,11 +54,13 @@ Flask, React
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/YOUR-LINK
-Email: [yourname@email.com](mailto:yourname@email.com)
+LinkedIn: https://www.linkedin.com/in/abinaya06
+
+
+Email: [Abinaya@gmail.com](mailto:abinayak829@gmail.com)
 
 ---
 
 ## Note
 
-This profile reflects my continuous learning and development in AI, software engineering, and system design.
+This profile reflects my continuous learning and development in Artificial Intelligence, software engineering, and system design.
